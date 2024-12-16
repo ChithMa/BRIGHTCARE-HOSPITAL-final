@@ -173,7 +173,7 @@
 }
 */
 @keyframes appearing {
-    form {
+    from {
         transform: translate(100px,100px);
     }
     to {
